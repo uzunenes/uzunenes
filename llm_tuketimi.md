@@ -130,8 +130,8 @@ plt.show()
 Yukarıdaki enerji değerlerini daha somut hale getirmek için günlük cihazlarla kıyaslayalım:
 
 - 💡 **Kolay soru (62 J)**: 10W’lık LED ampulü **6 saniye** çalıştırmakla eşdeğer
-- 🌬️ **Orta soru (780 J)**: 1300W saç kurutma makinesini **0.6 saniye** çalıştırmakla eşdeğer
-- 🧊 **Zor soru (3620 J)**: 100W buzdolabını **36 dakika** çalıştırmakla eşdeğer
+- 🌬️ **Orta soru (780 J)**: 10W’lık LED ampulü **1.5 dakika** çalıştırmakla eşdeğer
+- 🧊 **Zor soru (3620 J)**: 10W'lık LED ampülü **6 dakika** çalıştırmakla eşdeğer
 
 ---
 ## 📝 Sonuç ve Yorum
