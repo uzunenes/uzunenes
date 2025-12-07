@@ -4,15 +4,4 @@ Senior Software Engineer at Ford Otosan with 8+ years of experience. I build pro
 
 C/C++, Python, Kubernetes, Docker, Triton, vLLM, OpenCV, PostgreSQL
 
-uzun.ens@gmail.com
-
----
-
-### Notes
-
-- [OpenCV Installation Guide](opencv_install.md)
-- [Darknet Library Usage](libdarknet.md)
-- [Project Template](create_new_project_template.md)
-- [LLM Resource Consumption](llm_tuketimi.md)
-- [Gentoo Installation](gentoo_install.md)
-
+uzun.ens@gmail.com · [LinkedIn](https://www.linkedin.com/in/uzunenes)
